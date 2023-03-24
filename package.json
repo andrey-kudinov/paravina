@@ -1,0 +1,30 @@
+{
+  "name": "paravina",
+  "version": "1.0.0",
+  "description": "![unoptimized-lighthouse](./description/unoptimized-lighthouse.png)",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrey-kudinov/paravina.git"
+  },
+  "author": "Andrey Kudinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrey-kudinov/paravina/issues"
+  },
+  "homepage": "https://github.com/andrey-kudinov/paravina#readme",
+  "devDependencies": {
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "desandro-matches-selector": "^2.0.2",
+    "ev-emitter": "^2.1.2",
+    "get-size": "^3.0.0",
+    "jquery": "^3.4.1"
+  }
+}
